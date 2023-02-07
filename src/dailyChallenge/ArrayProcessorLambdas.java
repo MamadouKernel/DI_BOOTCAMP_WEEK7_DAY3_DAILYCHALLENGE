@@ -1,5 +1,8 @@
 package dailyChallenge;
 
+/*
+*@Author Konate-MK
+*/
 public class ArrayProcessorLambdas {
 
 	// Définir la variable de type ArrayProcessor pour trouver la valeur maximale
