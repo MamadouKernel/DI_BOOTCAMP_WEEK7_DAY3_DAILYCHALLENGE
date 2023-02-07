@@ -1,7 +1,7 @@
 package dailyChallenge;
 
 /*
-*@Konate-MK
+*@Author Konate-MK
 */
 public interface ArrayProcessor {
 	
